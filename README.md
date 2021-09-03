@@ -16,7 +16,7 @@
 
     npm start
 
-4. Navigate to the frontend directory:
+4. Navigate to the frontend directory (in a seperate shell):
 
     cd bp/front/
 
