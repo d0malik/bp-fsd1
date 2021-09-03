@@ -34,4 +34,4 @@
 
 ---
 
->By: [Daniel Domalik](mailto:dd.domalik@gmail.com?Subject=Subject%Broker%Pocket%20Assessment) for [Broker Pocket](https://www.brokerpocket.com/), Thursday, September 2, 2021 @ 10:55 PM
+>By: [Daniel Domalik](mailto:dd.domalik@gmail.com?Subject=Subject%Broker%Pocket%20Assessment) for [Broker Pocket](https://www.brokerpocket.com/), Thursday, September 2, 2021 @ 10:37 PM
